@@ -1,1 +1,2 @@
-image: rockylinux:9.3.20231119
+image:
+    file: .gitpod.Dockerfile
