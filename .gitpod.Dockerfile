@@ -1,4 +1,4 @@
-FROM rockylinux:9.3.20231119
+FROM rockylinux:8.9
 
 RUN dnf -y update && \
     dnf -y install git git-lfs sudo && \
