@@ -1,4 +1,4 @@
-FROM rockylinux:8.10
+FROM rockylinux:8.9
 
 # Update system and install basic tools:
 # - git and git-lfs for version control operations,
